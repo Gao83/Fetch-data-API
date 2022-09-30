@@ -1,0 +1,32 @@
+.title_container {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.title_container h1 {
+    padding-left: 50px;
+}
+
+.title_container a {
+    padding-right: 50px;
+    padding-top: 10px;
+}
+
+.posts_lists {
+    /* display: flex; */
+    background-color: var(--color-light);
+    margin: 3% 5%;
+    padding: 4%;
+}
+
+.listado {}
+
+.errorMessage {
+    position: absolute;
+    left: 23%;
+    top: 46%;
+}
+.errorMessage btn{
+    
+}
